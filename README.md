@@ -3,28 +3,16 @@
 
 :mega: About me  :loudspeaker:
 
- - 👯 I’m looking to collaborate on software development project as a junior or intern. 
- - I´m a bachelor degree in Computer Science from Córdoba University (Spain) and currently, I have finished a higher profesional training in Webapplication development (DAW).
- - I know differents techonologies such 
+ - :mortar_board:I´m a bachelor degree in Computer Science from Córdoba University (Spain) and currently, I have finished a higher profesional training in Webapplication development 
+ - 👯 I’m looking to collaborate on Full Stack Web development. 
  - Interested in learning and exploring more about Frontend and Backend Development.
- - I´m working as a online programming teacher.
- - I´m looking to collaborate on Full Stack Web development.
+ - 💬 Ask me about":  "Java, JavaScript, PHP, SQL, Bases de datos, TypeScript, Python, HTML, CSS, Node".
+ - 🌱 I’m currently learning":Spring, Angular and React.
+ - 🔭 I´m working as a online programming teacher.
  - 📫 How to reach me developer.marbuenfer@gmail.com  or  formacion.marbuenfer@gmail.com
  - Pronoums: She/Her
 
-package main
 
-import (
-	"fmt"
-)
-
-type Bio map[string]string
-
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
 
 func GetBio() Bio {
 	return Bio{
