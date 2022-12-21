@@ -3,7 +3,7 @@
 
 :mega: About me  :loudspeaker:
 
- - :mortar_board:I´m a bachelor degree in Computer Science from Córdoba University (Spain) and currently, I have finished a higher profesional training in Webapplication development 
+ - :mortar_board:I have a bachelor degree in Computer Science from Córdoba University (Spain) and currently, I have finished a higher profesional training in Webapplication development 
  - 👯 I’m looking to collaborate on Full Stack Web development. 
  - :pencil2: Interested in learning and exploring more about Frontend and Backend Development.
  - 💬 Ask me about":  "Java, JavaScript, PHP, SQL, Bases de datos, TypeScript, Python, HTML, CSS, Node".
