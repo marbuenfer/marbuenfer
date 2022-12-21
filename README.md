@@ -8,7 +8,7 @@
  - :pencil2: Interested in learning and exploring more about Frontend and Backend Development.
  - 💬 Ask me about":  "Java, JavaScript, PHP, SQL, Bases de datos, TypeScript, Python, HTML, CSS, Node".
  - 🌱 I’m currently learning":Spring, Angular and React.
- - 🔭 I´m working as a online programming teacher.
+ - 🔭 I´m working as a online programming teacher of Java language at higher profesional training.
  - 📫 How to reach me developer.marbuenfer@gmail.com  or  formacion.marbuenfer@gmail.com
  - :lipstick: Pronoums: She/Her
 
